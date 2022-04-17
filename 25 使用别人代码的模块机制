@@ -1,0 +1,7 @@
+import datetime
+today = datetime.date.today()
+year = today.year
+if year ==2022:
+    print(True)
+else:
+    print(False)
